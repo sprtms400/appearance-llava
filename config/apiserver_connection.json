@@ -1,0 +1,12 @@
+{
+    "gfps" : {
+        "protocol" : "http",
+        "host" : "localhost",
+        "port" : "3000"
+    },
+    "endpoints": {
+        "photo": "photo",
+        "getPresignedURL": "photo/getPresignedUrl",
+        "updateNumberPlate": "photo/{photoID}/updateNumberPlate"
+    }
+}

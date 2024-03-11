@@ -1,0 +1,44 @@
+{
+    "sex": "Male", 
+    "helmet": {
+        "isWearing": "True", 
+        "color": "Black", 
+        "description": "The man is wearing a black helmet for safety while riding his bike."
+    }, 
+    "eyewear": {
+        "isWearing": "True", 
+        "color": "Black", 
+        "description": "The man is wearing black eyewear to protect his eyes from the sun and wind while riding his bike."
+    }, 
+    "upper": {
+        "sleeve": "Short", 
+        "color": "Black", 
+        "description": "The man is wearing a black short sleeve shirt while riding his bike."
+    }, 
+    "lower": {
+        "sleeve": "Short", 
+        "color": "Black", 
+        "description": "The man is wearing black shorts while riding his bike."
+    }, 
+    "socks": {
+        "isWearing": "True", 
+        "color": "White", 
+        "description": "The man is wearing white socks while riding his bike."
+    }, 
+    "shoes": {
+        "isWearing": "True", 
+        "color": "White", 
+        "description": "The man is wearing white shoes while riding his bike."
+    }, 
+    "gloves": {
+        "isWearing": "True", 
+        "color": "Black", 
+        "description": 
+        "The man is wearing black gloves while riding his bike."
+    }, 
+    "bicycle": {
+        "isRiding": "True", 
+        "color": "Black", 
+        "description": "The man is riding a black bicycle down the road."
+    }
+}

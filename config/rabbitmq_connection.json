@@ -1,0 +1,9 @@
+{
+    "rabbitmq": {
+        "protocol": "amqp",
+        "host": "localhost",
+        "port": 5672,
+        "queue": "analyzingQueueNumberPlate",
+        "queue_1": "analyzingQueueAppearance"
+    }
+}

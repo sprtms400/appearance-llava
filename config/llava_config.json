@@ -1,0 +1,7 @@
+{
+    "llava" : {
+        "protocol": "http",
+        "host": "localhost",
+        "port": "40001"
+    }
+}

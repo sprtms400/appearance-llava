@@ -1,0 +1,47 @@
+{
+    "assistant_requirements_for_text" : "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "assistant_requirements_for_image" : "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <image>",
+    "analyze_answer_format" : {
+        "sex": "The sex who in the image",
+        "helmet": {
+            "isWearing" : "True of Not",
+            "color" : "The color of the helmet",
+            "dedcription" : "Explain about helmet"
+        },
+        "eyewear": {
+            "isWearing" : "True of Not",
+            "color" : "The color of the eyewear",
+            "dedcription" : "Explain about eyewear"
+        },
+        "upper": {
+            "sleeve": "long_sleeve or short_sleeve",
+            "color" : "The color of the upper",
+            "dedcription" : "Explain about upper"
+        },
+        "lower": {
+            "sleeve": "long_sleeve or short_sleeve",
+            "color" : "The color of the lower",
+            "dedcription" : "Explain about lower"
+        },
+        "socks": {
+            "isWearing" : "True of Not",
+            "color" : "The color of the sockes",
+            "dedcription" : "Explain about socks"
+        },
+        "shoes": {
+            "isWearing" : "True of Not",
+            "color" : "The color of the shoes",
+            "dedcription" : "Explain about shoes"
+        },
+        "gloves": {
+            "isWearing" : "True of Not",
+            "color" : "The color of the gloves",
+            "dedcription" : "Explain about gloves"
+        },
+        "bicycle": {
+            "isRiding" : "True of Not",
+            "color" : "The color of the bicycle",
+            "dedcription" : "Explain about bicycle"
+        }
+    }
+}
