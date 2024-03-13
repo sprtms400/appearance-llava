@@ -19,6 +19,8 @@ OS : Ubuntu 20.04
 
 Python version : 3.10
 
+Llava model : https://huggingface.co/liuhaotian/llava-v1.5-7b
+
 구동하기 이전에 LLava 서비스를 구동시켜야합니다 
 저장소 참조 : https://github.com/haotian-liu/LLaVA
 
