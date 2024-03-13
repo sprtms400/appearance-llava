@@ -1,6 +1,7 @@
 ## 마라톤, 자전거 대회 사진에서의 인상착의 검출기
 마라톤, 자전거 대회 사진에서 인상착의 정보를 추출합니다.
-Vision LLM 인 LLava를 이용, In-Context Learing하여 정제된 형태로 인상착의에 대해 추출합니다.
+Vision LLM 인 LLava를 이용, 
+정재된 출력형태를 In-Context Learing하여 인상착의에 대해 추출합니다.
 추출하는 목록은 다음과 같습니다.
 
 ![image](https://github.com/sprtms400/ocrDINO_NumberExtractor/assets/26298389/e157fdf9-2e86-480e-b495-0f242ef19c1c)
