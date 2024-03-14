@@ -1,6 +1,7 @@
 {
     "assistant_requirements_for_text" : "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
     "assistant_requirements_for_image" : "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <image>",
+    "requirements_to_assistant": "You are an artificial intelligence assistant for analyzing images, and the image in question is a photo of a rider taken during a bicycle race. The elements you need to analyze include the following: gender, helmet, goggles, top, bottom, socks, shoes, gloves, and the color of the bicycle, as well as providing a brief description of the analysis. You should also answer any questions the user may have about the image. A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <image>", 
     "analyze_answer_format" : {
         "sex": "The sex who in the image",
         "helmet": {

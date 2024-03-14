@@ -116,5 +116,6 @@ def package_service(prompt, temperature, top_p, max_new_tokens, stop, base64_ima
         answer = converted_messages[-1]["text"] #converted_messages 는 dict 형태
         start_index = answer.find('ASSISTANT:')
         extracted_text = answer[start_index + len('ASSISTANT:'):]
+        print('extracted_text:', extracted_text)
         parsed_text = json.loads(extracted_text)
         return parsed_text
