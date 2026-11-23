@@ -2,7 +2,7 @@
 
 대회 사진에서 참가자의 옷차림을 읽어내는 프로그램이다.
 
-> 2024년 작업이다. [Granfondo Photo Search](https://github.com/sprtms400/Granfondo_Photo_Search) 에서 인상착의를 뽑아내는 부분을 맡는다.
+> 2024년 작업이다. [픽마이레이스(PickMyRace)](https://github.com/sprtms400/Granfondo_Photo_Search)에서 인상착의를 뽑아내는 부분을 맡는다.
 
 ---
 
